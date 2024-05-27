@@ -1,8 +1,0 @@
-{
-  "required": true,
-  "package": "com.forcedVignette.gyu29.mixins",
-  "refmap": "mixins.weave.refmap.json",
-  "mixins": [
-    "VignetteMixin"
-  ]
-}
