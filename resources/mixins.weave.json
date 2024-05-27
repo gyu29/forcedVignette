@@ -1,0 +1,8 @@
+{
+  "required": true,
+  "package": "com.example.mod.mixins",
+  "refmap": "mixins.weave.refmap.json",
+  "mixins": [
+    "VignetteMixin"
+  ]
+}
