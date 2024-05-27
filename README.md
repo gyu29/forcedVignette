@@ -26,11 +26,11 @@ Add the built mod files to your game's mod directory.
 # Contributing    
 We welcome contributions! Please follow these steps to contribute:   
 
-Fork the repository.
-Create a new branch (git checkout -b feature-branch).
-Commit your changes (git commit -m 'Add new feature').
-Push to the branch (git push origin feature-branch).
-Create a new Pull Request.
+Fork the repository.   
+Create a new branch (git checkout -b feature-branch).   
+Commit your changes (git commit -m 'Add new feature').   
+Push to the branch (git push origin feature-branch).   
+Create a new Pull Request.   
 
-Contact
-For issues or questions, please open an issue on GitHub.
+# Contact   
+For issues or questions, please open an issue on GitHub.   
